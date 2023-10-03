@@ -1,0 +1,17 @@
+#background{
+    position:absolute;
+    width:100px;
+    height:100px;
+    background-color:grey;
+    border-radius:50px;
+    opacity:0.5;
+    border:outset 2px;
+    }
+    #joystick{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:grey;
+    border-radius:20px;
+    border:outset 2px;
+    }
